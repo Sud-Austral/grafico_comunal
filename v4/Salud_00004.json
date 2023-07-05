@@ -1,1 +1,1 @@
-{"dataSerie": [{"name": "Sexo", "data": [21240, 46777]}], "label": ["Hombres", "Mujeres"], "graficoTipo": "Graph 08"}
+{"dataSerie": [{"name": "Sexo", "data": [21240, 46777]}], "label": ["Hombres", "Mujeres"], "graficoTipo": "Graph 08", "seriesGrafico": ["Hombres", "Mujeres"]}
